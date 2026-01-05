@@ -1,0 +1,11 @@
+# user data
+data.json
+
+# build files
+dist/
+build/
+*.spec
+
+# python cache
+__pycache__/
+*.pyc
